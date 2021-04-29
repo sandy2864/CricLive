@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CricLive/static/css/main.3640fac0.chunk.css",
+    "main.js": "/CricLive/static/js/main.be2466b5.chunk.js",
+    "main.js.map": "/CricLive/static/js/main.be2466b5.chunk.js.map",
+    "runtime-main.js": "/CricLive/static/js/runtime-main.8899c858.js",
+    "runtime-main.js.map": "/CricLive/static/js/runtime-main.8899c858.js.map",
+    "static/js/2.fc49e96d.chunk.js": "/CricLive/static/js/2.fc49e96d.chunk.js",
+    "static/js/2.fc49e96d.chunk.js.map": "/CricLive/static/js/2.fc49e96d.chunk.js.map",
+    "static/js/3.2ba7e1a9.chunk.js": "/CricLive/static/js/3.2ba7e1a9.chunk.js",
+    "static/js/3.2ba7e1a9.chunk.js.map": "/CricLive/static/js/3.2ba7e1a9.chunk.js.map",
+    "index.html": "/CricLive/index.html",
+    "static/css/main.3640fac0.chunk.css.map": "/CricLive/static/css/main.3640fac0.chunk.css.map",
+    "static/js/2.fc49e96d.chunk.js.LICENSE.txt": "/CricLive/static/js/2.fc49e96d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/CricLive/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8899c858.js",
+    "static/js/2.fc49e96d.chunk.js",
+    "static/css/main.3640fac0.chunk.css",
+    "static/js/main.be2466b5.chunk.js"
+  ]
+}
